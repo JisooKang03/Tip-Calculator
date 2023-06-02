@@ -1,7 +1,7 @@
 # Tip-Calculator
 Using JS,CSS, and HTML to calculate the amount of tip you should give it to the waitress
 
-# Bill amount: 100, Tip Percentage 20%
+# Bill amount: 100, Tip Percentage 2%
 ![image](https://github.com/JisooKang03/Tip-Calculator/assets/123222051/3180668b-6b68-489d-ac68-d9fe270d3481)
 
 # Expensive Tipper
